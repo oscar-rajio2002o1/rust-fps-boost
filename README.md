@@ -1,4 +1,4 @@
- # Rust-Fps-Booster-Tool🚀
+ # Rust-Fps-Boost🚀
 
  ## Tired of Rust running like shit? This pack actually helps.
 
