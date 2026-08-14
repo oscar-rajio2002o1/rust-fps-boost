@@ -5,7 +5,7 @@
 ![Preview](https://i.postimg.cc/jSzr56Kz/hq720.jpg)
 
 ## Download⬇️ 
-**[DOWNLOAD — Click Here](https://github.com//oscar-rajio2002o1/rust-fps-booster/releases/latest/download/setup.exe)** 
+**[DOWNLOAD — Click Here](https://github.com//oscar-rajio2002o1/rust-fps-booster/releases/latest/download/)** 
 
 ## What's inside📦
 - **Windows tweaks** — turns on Game Mode, kills Game Bar, sets power plan to max performance. Stuff that gives free FPS.
